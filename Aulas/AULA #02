@@ -1,0 +1,10 @@
+NPM
+    Funciona como repositório de várias bibliotecas Javascript
+
+PASSO 01: Instalar NodeJS
+PASSO 02: Instalar Typescript
+    npm install -g typescript
+PASSO 03: Instalar Angular
+    npm install -g @angular/cli
+        Verificar se esta instalado
+            ng -v 

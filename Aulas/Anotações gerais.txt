@@ -1,0 +1,11 @@
+Typescript � como um plus do Javascript, veio pra facilitar
+	Orienta��o a Objeto mais completa
+NAVEGADOR S� INTERPRETA JAVASCRIPT
+
+RXJS
+	� uma biblioteca terceira utilizada pelo Angula.
+
+
+	
+
+

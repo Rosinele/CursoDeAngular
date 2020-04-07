@@ -1,0 +1,18 @@
+
+Principais blocos do Framework
+	- Componentes
+		Seria propriamente a view.
+		- Teamplate
+		- Metadata: processamento das classes
+		- Dado a ser mostrado na tela (Data Binding)
+		- Comportamento da VIEW
+	- Diretivas
+		Responsável por modificar elementos DOM e/ou seu comportamento. Um componente também é uma diretiva.
+	- Roteamento
+		Responsável pela navegação e roteamento das páginas.
+	- Serviços
+		Componente -> Serviço -> Backend
+	- Template
+	- Metadata
+	- Data Binding
+	- Injeção Dependência
